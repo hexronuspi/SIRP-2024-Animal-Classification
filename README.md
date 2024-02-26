@@ -5,7 +5,9 @@
 
 #### Faculty Advisor: Nipun Batra
 
-The Code report is available in .pdf format <a href="https://drive.google.com/file/d/1XtJzis_dHHLyPbMDrgBTfjLd3qEJwOFc/view?usp=sharing">here</a>.
+The Code report is available in .pdf format <a href="https://drive.google.com/file/d/1r856rOgkokV5iEgqxkfhPSq9IiPQ26_l/view?usp=sharing">here</a>.
+
+
 ## Kaggle 
 The code was originally run on kaggle and it took around `220 minutes for a complete run` adhering to the requirments of the selection task for SIRP 2024. The link for kaggle run and output at one place is <a href="https://www.kaggle.com/code/hexronus/ml-sirp-2024">Link</a>.
 
